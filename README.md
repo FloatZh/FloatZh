@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Kefan Zhou @FloatZh 
-- 👀 I’m a senior at University of Michigan, Ann Arbor
-- 🌱 I’m currently learning React Native, Pytorch
-- 💞️ I will join Amazon as a SDE in July, 2022
+- 👀 I had my bachlor at University of Michigan, Ann Arbor and currently pursuing my master degree at Northeastern Univeristy, Seattle
+
 
 
 <!---
